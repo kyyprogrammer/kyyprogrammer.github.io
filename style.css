@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    margin: -8px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: rgb(168, 167, 167);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: sans-serif;
+  }
+
+  img{
+      margin-top: 1rem;
+      position: relative;
+  }
+
+
+  /* contact */
+
+#container-contact form{
+    margin-top: 1rem;
+    
+
+}
+
+#container-contact td{
+    padding: 0;
+}
+
+#container-contact input{
+    width: 100px;
+    margin: auto;
+    padding: 10px;
+    border: none;    
+    justify-content: center;
+    display: block;
+
+}
+
+  /*  */
